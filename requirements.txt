@@ -1,0 +1,9 @@
+fastapi[standard]
+sqlmodel
+sqlalchemy
+pymysql
+python-dotenv
+pandas
+numpy
+catboost
+joblib
