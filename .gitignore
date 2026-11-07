@@ -1,0 +1,81 @@
+
+# ==============================
+# Python cache files
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Virtual environments
+# ==============================
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+# Environment variables / secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# VS Code
+# ==============================
+.vscode/
+
+# ==============================
+# Operating system files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Logs and temporary files
+# ==============================
+*.log
+*.tmp
+*.bak
+
+# ==============================
+# Testing and coverage
+# ==============================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# ==============================
+# Database files
+# ==============================
+*.db
+*.sqlite
+*.sqlite3
+
+# ==============================
+# Python build files
+# ==============================
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# ML experiment temporary files
+# ==============================
+catboost_info/
+mlruns/
+wandb/
+lightning_logs/
+
+# ==============================
+# IDE files
+# ==============================
+.idea/
