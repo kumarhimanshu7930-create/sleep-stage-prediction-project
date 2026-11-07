@@ -111,8 +111,9 @@ Sleep-Stage-Prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd Sleep-Stage-Prediction
+git clone https://github.com/kumarhimanshu7930-create/sleep-stage-prediction-project.git
+
+cd sleep-stage-prediction-project
 ```
 
 ### 2. Create a Virtual Environment
